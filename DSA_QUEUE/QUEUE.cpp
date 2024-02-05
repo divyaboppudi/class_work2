@@ -52,6 +52,7 @@ int main()
 	gquiz.pop();                        //Remove the front element from the queue.
 
 	showq(gquiz);                       //Call the 'showq' function to display the updated elements of the queue.
+
 	return 0;                           // Indicate successful execution of the program.
 
 }
