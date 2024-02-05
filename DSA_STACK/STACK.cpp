@@ -20,5 +20,6 @@ int main()              //The main function where the execution of the program b
 		stack.pop();     //Pop (remove) the top element from the stack.
 
 	}
+
 	return 0;                     //Indicate successful execution of the program.
 }

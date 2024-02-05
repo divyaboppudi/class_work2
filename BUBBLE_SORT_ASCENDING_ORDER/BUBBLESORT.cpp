@@ -34,5 +34,7 @@ int main()
     //Putting the sorted array to print
     for (int i = 0; i < getArrayLength; i++) {
         cout << a[i] << "\t";
+        return 0;
+        //indicating successful completion of the program
     }
 }

@@ -26,6 +26,7 @@ int main() {
         std::cout << a[i] << " ";   // Output each element of the sorted array
     }
 
+
     // Indicating successful completion of the program
     return 0;
 }
